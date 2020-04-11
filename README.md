@@ -6,6 +6,7 @@ This dataset is designed to simulate complex line art. Useful for training machi
  - Denoising
  - Artifact removal (de-ringing, non-gaussian degradation)
  - Inpainting
+ - User-Guided Colorization 
  - Style Transfer
  - And more...
 
