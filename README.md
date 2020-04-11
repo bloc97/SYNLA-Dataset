@@ -4,7 +4,7 @@
 This dataset is designed to simulate complex line art. Useful for training machine learning models which perform any of the following:
  - Super-Resolution/Deblurring
  - Denoising
- - Artifact removal (de-ringing, non-gaussian degradation)
+ - Artifact removal (de-ringing, non-gaussian degradation, etc.)
  - Inpainting
  - User-Guided Colorization 
  - Style Transfer
