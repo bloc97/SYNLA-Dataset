@@ -1,5 +1,7 @@
 # SYNLA Dataset
  Synthetic Line Art Dataset
+ 
+ <ins>**NOTE: This dataset is outdated. An improved version can be found here: [SYNLA+](https://github.com/bloc97/SYNLA-Plus)**</ins>
 
 This dataset is designed to simulate complex line art. Useful for training machine learning models which perform any of the following:
  - Super-Resolution/Deblurring
